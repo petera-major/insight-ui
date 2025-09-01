@@ -9,6 +9,8 @@ Portfolio Insights is a single-page web app that turns any GitHub profile or rep
 - Visualizes everything with Chart.js (doughnut, line, bar).
 - Caching reduces API calls; PAT stays on the backend (privacy & rate-limit friendly).
 
+- Live Web App at: https://commitcanvas.netlify.app
+
 ## Features
 - **GitHub API Integration**: Fetch data from GitHub using a secure token-based authentication.
 - **Caching Mechanism**: Implemented a simple caching system to reduce API calls and improve response times.
