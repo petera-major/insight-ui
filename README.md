@@ -50,5 +50,3 @@ The backend provides various endpoints to interact with the GitHub API. Here are
 - [ ] Improve error handling and logging.
 - [ ] Created and connected frontend UI.
 
-## License
-This project is licensed under the UNLICENSED license. Please see the [LICENSE](LICENSE) file for more details.
